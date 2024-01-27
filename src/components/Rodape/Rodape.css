@@ -1,0 +1,19 @@
+.rodape {
+    background-color: #FCE9C7;
+    text-align: center;
+}
+
+.rodape p {
+    font-size: 18px;
+    color: #444444;
+    margin: 0;
+    padding: 20px 0 20px 0;
+}
+
+.rodape a {
+    color: inherit;
+}
+
+a:hover {
+    color: #F0685C;
+}
